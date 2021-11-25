@@ -40,11 +40,11 @@ https://flatuicolors.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 https://flatuicolors.com/
- <img src="images/mainpage.png" width="375px" alt="De hoofdpagina">
+ <img src="D:\Desktop\School\CMD\Frontend Development\mainpage.png" width="375px" alt="De hoofdpagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/colors.png" width="375px" alt="De pagina als je op een van de color palettes klikt.">
+https://flatuicolors.com/palette/defo
+<img src="D:\Desktop\School\CMD\Frontend Development\colors.png" width="375px" alt="De pagina als je op een van de color palettes klikt.">
  
 </details>
 
